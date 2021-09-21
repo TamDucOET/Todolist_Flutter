@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_staggered_grid_view/flutter_staggered_grid_view.dart';
 import 'package:to_do_list/db/database.dart';
 import 'package:to_do_list/models/note.dart';
 import 'package:to_do_list/pages/edit_note.dart';
